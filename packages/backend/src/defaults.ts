@@ -115,5 +115,5 @@ export const DEFAULT_THEMES: Omit<Theme, "id">[] = [
         text: "",
       },
     },
-  }
+  },
 ];
