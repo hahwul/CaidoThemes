@@ -91,16 +91,6 @@ export const DEFAULT_THEMES: Omit<Theme, "id">[] = [
       light: "#182730",
       subtle: "#122231",
     },
-  },
-  {
-    name: "Midnight in Seoul",
-    description: "A theme inspired by the deep blue hues of Seoul at midnight",
-    author: "hahwul",
-    primary: {
-      dark: "#081721",
-      light: "#182730",
-      subtle: "#122231",
-    },
     button: {
       primary: {
         bg: "#30465a",
